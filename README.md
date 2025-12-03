@@ -11,12 +11,6 @@ This project is perfect for learning:
 
 ---
 
-## 🚀 Demo  
-Hover over the thumbnails and watch the reveal animation come alive.  
-*(Add a GIF or link once uploaded)*
-
----
-
 ## ✨ Features
 - 🎯 Smooth overshoot animation using `cubic-bezier(.34, 1.56, .64, 1)`
 - 🖼️ Image hover interaction
