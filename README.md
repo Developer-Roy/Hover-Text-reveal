@@ -27,5 +27,3 @@ Hover over the thumbnails and watch the reveal animation come alive.
 
 ---
 
-## 📂 Project Structure
-
